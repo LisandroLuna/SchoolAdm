@@ -126,7 +126,7 @@ class Course(Base):
                 filter(TimeRecord.course_id == self.id). \
                 filter(TimeRecord.teacher_id == Teacher.id). \
                 all():
-            timest.append(str(atime) + ': ' +str(ateach))
+            timest.append(str(atime) + ': ' + str(ateach))
         return timest
 
     def getfull(self):
