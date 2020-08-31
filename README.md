@@ -1,4 +1,4 @@
-# SchoolAdm - CRUD - SQLAlchemy
+# SchoolAdm - SQLAlchemy
 Administracion de escuela con Python + SQLAlchemy.
 
 ## Ejercicio de Curso de Base de datos con Python:
